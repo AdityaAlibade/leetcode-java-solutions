@@ -5,7 +5,7 @@ class Solution {
 
         result[0] = 1;
         for (int i = 1; i < n; i++) {
-            result[i] = result[i - 1] * nums[i - 1]; //answer = [1,1,2,6]
+            result[i] = result[i - 1] * nums[i - 1];
         }
 
         int rightProduct = 1;
@@ -13,7 +13,6 @@ class Solution {
             result[i] *= rightProduct;
             rightProduct *= nums[i];
         }
-
         return result;
     }
 }
