@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
