@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
