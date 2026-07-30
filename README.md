@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2390-removing-stars-from-a-string) |
