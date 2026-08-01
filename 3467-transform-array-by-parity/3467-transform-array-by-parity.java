@@ -1,12 +1,17 @@
 class Solution {
     public int[] transformArray(int[] nums) {
-        for (int i=0 ; i<nums.length ; i++){
-            if(nums[i]%2 == 0){
-                nums[i]=0;
-            }else{
-                nums[i]=1;
+        int evenCount = 0;
+        for (int num : nums) {
+            if (num % 2 == 0) {
+                evenCount++;
             }
-            Arrays.sort(nums);
+        }
+        for (int i = 0; i < nums.length; i++) {
+            if (i < evenCount) {
+                nums[i] = 0;
+            } else {
+                nums[i] = 1;
+            }
         }
         return nums;
     }
