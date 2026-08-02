@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Graph Theory
 |  |
 | ------- |
