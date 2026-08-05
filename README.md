@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3668-restore-finishing-order](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
