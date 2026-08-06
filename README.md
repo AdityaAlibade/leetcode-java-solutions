@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
