@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3668-restore-finishing-order](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Greedy
 |  |
 | ------- |
