@@ -1,12 +1,15 @@
 class Solution {
     public int maxDistinct(String s) {
         int count = 0;
-        String seen = "";
+        HashMap<Character, Integer> map = new HashMap<>();
+
         for (int i = 0; i < s.length(); i++) {
-            if (seen.contains(String.valueOf(s.charAt(i)))) {
+            char ch = s.charAt(i);
+
+            if (map.containsKey(ch)) {
                 continue;
             } else {
-                seen += s.charAt(i);
+                map.put(ch, 1);
                 count++;
             }
         }
