@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1732-find-the-highest-altitude) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3925-concatenate-array-with-reverse) |
