@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
