@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2396-strictly-palindromic-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
