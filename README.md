@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
