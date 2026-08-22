@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0443-string-compression) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
