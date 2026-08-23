@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2396-strictly-palindromic-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
