@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
@@ -285,4 +288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
