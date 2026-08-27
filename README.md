@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2396-strictly-palindromic-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2469-convert-the-temperature](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
