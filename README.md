@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -343,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
