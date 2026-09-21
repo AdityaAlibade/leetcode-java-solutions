@@ -1,12 +1,12 @@
 class Solution {
     public int largestAltitude(int[] gain) {
-        Stack<Integer> s = new Stack<>();
+        ArrayList<Integer> list = new ArrayList<>();
         int altitude = 0;
         for (int i = 0; i < gain.length; i++) {
             altitude += gain[i];
-            s.push(altitude);
+            list.add(altitude);
         }
-        int result = Collections.max(s);
+        int result = Collections.max(list);
         if (result > 0) {
             return result;
         } else {
