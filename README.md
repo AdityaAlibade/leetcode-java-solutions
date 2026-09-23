@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0724-find-pivot-index) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Graph Theory
