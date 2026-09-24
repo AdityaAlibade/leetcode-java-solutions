@@ -1,5 +1,6 @@
 class Solution {
     public int[] sortArray(int[] nums) {
+        // Counting Sort
         Map<Integer, Integer> map = new HashMap<>();
         int max = nums[0] , min = nums[0];
         for( int i=0 ; i<nums.length ; i++){
@@ -23,6 +24,7 @@ class Solution {
                 map.put( i , map.get(i) - 1);
             }
         }
+
         return nums;
     }
 }
