@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0141-linked-list-cycle) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [2352-equal-row-and-column-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
