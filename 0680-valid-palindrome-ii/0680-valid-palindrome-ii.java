@@ -29,7 +29,6 @@ class Solution {
                 if (left >= right) {
                     return true;
                 }
-
                 return false;
             }
             else {
