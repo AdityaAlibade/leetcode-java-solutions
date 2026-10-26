@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
