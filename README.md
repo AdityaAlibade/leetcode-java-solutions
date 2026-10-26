@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -505,4 +508,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
