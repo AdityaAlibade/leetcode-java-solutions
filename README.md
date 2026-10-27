@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3467-transform-array-by-parity) |
