@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
