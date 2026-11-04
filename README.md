@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3701-compute-alternating-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3668-restore-finishing-order](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaAlibade/leetcode-java-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting Sort
 |  |
 | ------- |
