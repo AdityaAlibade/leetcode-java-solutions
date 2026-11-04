@@ -56,7 +56,6 @@ class Solution {
         if ((long) x * k > n)
             return -1;
 
-        // Coordinate compression
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
 
@@ -80,7 +79,6 @@ class Solution {
 
         long totalSum = 0;
 
-        // First window
         for (int i = 0; i < x; i++) {
             bit.add(rank[i], 1, nums[i]);
             totalSum += nums[i];
@@ -88,7 +86,6 @@ class Solution {
 
         long[] cost = new long[n - x + 1];
 
-        // Calculate cost of every sliding window
         for (int i = 0; i <= n - x; i++) {
 
             // Median
@@ -105,7 +102,6 @@ class Solution {
                 median * leftCount - leftSum
                 + rightSum - median * rightCount;
 
-            // Slide window
             if (i < n - x) {
 
                 bit.add(rank[i], -1, -nums[i]);
@@ -116,7 +112,6 @@ class Solution {
             }
         }
 
-        // Dynamic Programming
         long INF = Long.MAX_VALUE / 4;
 
         long[] prev = new long[n + 1];
@@ -128,10 +123,8 @@ class Solution {
 
             for (int i = 1; i <= n; i++) {
 
-                // Skip current element
                 curr[i] = curr[i - 1];
 
-                // Select a window of length x
                 if (i >= x && prev[i - x] != INF) {
 
                     curr[i] = Math.min(
